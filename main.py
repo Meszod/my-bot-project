@@ -8,8 +8,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQu
 
 # .env fayldan TOKEN olish
 load_dotenv()
-TOKEN = os.getenv("8193848501:AAGo6vgyc4bXqSidjZNSSptbWb8T2zQQywk")
-TOKEN = "8193848501:AAGo6vgyc4bXqSidjZNSSptbWb8T2zQQywk"
+TOKEN = os.getenv("bot token")
+TOKEN = "Tokeningiz"
 
 
 
